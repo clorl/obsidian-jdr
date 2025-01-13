@@ -1,0 +1,8 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "mcl-wide-views",
+    "mcl-multi-column",
+    "mcl-gallery-cards"
+  ]
+}
