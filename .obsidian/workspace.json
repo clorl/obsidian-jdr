@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "4. Mondes/Ravnica/Langues.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Langues"
             }
           }
         ]
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "72a7bb1eccd25fc0",
@@ -109,8 +109,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -136,8 +136,64 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "1403d0080d9c3846",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "a209d8efe7f4e580",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "b4251ab723ef3820",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_89a9a8a92ac8",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 13,
+                    "month": 0,
+                    "year": 10050
+                  },
+                  "displayDayNumber": false,
+                  "displayAbsoluteYear": true,
+                  "displayMoons": false
+                },
+                "id": "ID_bbd8690a3968"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "eb59ebaebd3aebb6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -160,30 +216,41 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "hide-folders:Show hidden folders": true
+      "hide-folders:Show hidden folders": true,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Campagnes/DND Ravnica/DND Ravnica.md",
-    "2. Sessions/Nouvelle Session.md",
-    "3. Jeux",
-    "2. Sessions",
-    "2. Sessions/00_20250201.md",
-    "1. Campagnes/DND Ravnica/PJs/Perso 2.md",
-    "1. Campagnes/DND Ravnica/PJs/Perso 1.md",
+    "4. Mondes/Ravnica/Monnaie.md",
+    "4. Mondes/Ravnica/Langues.md",
+    "4. Mondes/Ravnica/Lieux/Jace Beleren.md",
+    "4. Mondes/Ravnica/Lieux/Labyrinthe Implicite.md",
+    "4. Mondes/Ravnica/Personnages/Azor.md",
+    "4. Mondes/Ravnica/Evenements/Découverte du plan d'Azor.md",
+    "4. Mondes/Ravnica/Evenements/Rupture du Pacte.md",
+    "4. Mondes/Ravnica/Lieux/Pacte des Guildes.md",
+    "4. Mondes/Ravnica/Factions/Factions.md",
+    "4. Mondes/Ravnica/Factions/Sénat d'Azorius.md",
+    "4. Mondes/Ravnica/Evenements",
     "Home.md",
-    "1. Campagnes/DND Ravnica/Sessions",
-    "1. Campagnes/DND Ravnica/PJs",
-    "1. Campagnes/DND Ravnica",
-    "3. Jeux/DND/Écran MJ.md",
-    "z_Docs",
+    "4. Mondes/Ravnica/Personnages",
+    "4. Mondes/Ravnica/Factions",
+    "4. Mondes/Ravnica/Lieux",
+    "4. Mondes/Ravnica",
+    "4. Mondes",
+    "3. Systèmes/DnD Ravnica",
+    "3. Systèmes/Sourcebooks/Dungeons & Dragons Guildmasters' Guide to Ravnica.pdf",
+    "1. Campagnes/DnD Ravnica - La Guilde sans Couleur/DnD Ravnica - La Guilde sans Couleur.md",
+    "3. Jeux/Sourcebooks/Dungeons & Dragons Guildmasters' Guide to Ravnica -- Wizards of the Coast -- Dungeons and Dragons, 5, 2018 -- Wizard's of the Coast -- 9780786966592 -- 382fe17063f777014dbfdd9b94f60b67 -- Anna’s Archive.pdf",
+    "3. Jeux/Sourcebooks/DnD Guildmaster's Guide to Ravnica.pdf",
+    "2. Sessions/Nouvelle Session.md",
+    "2. Sessions/00_20250201.md",
+    "1. Campagnes/DnD Ravnica - La Guilde sans Couleur/PJs/Perso 2.md",
+    "1. Campagnes/DnD Ravnica - La Guilde sans Couleur/PJs/Perso 1.md",
+    "3. Systèmes/DnD 5e/Écran MJ.md",
     "z_Assets/banner-bg.jpg",
     "Jeux/Jeux.md",
-    "3. Jeux/DND/Monstres",
-    "3. Jeux/DND/Personnages",
-    "Jeux",
-    "3. Jeux/Cthulhu",
     "Welcome.md"
   ]
 }

@@ -1,0 +1,257 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Ravnica",
+      "description": "Calendar of Ravnica from MTG",
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": false,
+        "incrementDay": true,
+        "displayMoons": false,
+        "firstWeekDay": 1,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_bae919b8cac9"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_0a8bda88ab78"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_19da3bfa3828"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_1b5afb298828"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_8aca89e998bb"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_895acb39baa9"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_3a18680af929"
+          }
+        ],
+        "months": [
+          {
+            "name": "Seleszeni",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b83bda2b9be8"
+          },
+          {
+            "name": "Dhazo",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_29baea7b28ab"
+          },
+          {
+            "name": "Prahz",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6a3899fad909"
+          },
+          {
+            "name": "Mokosh",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_384aeb1afa8a"
+          },
+          {
+            "name": "Paujal",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_48b8cba87b8a"
+          },
+          {
+            "name": "Cizarm",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_fa0b1a6bab8a"
+          },
+          {
+            "name": "Tevnember",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da880b8af849"
+          },
+          {
+            "name": "Golgar",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_babba8186968"
+          },
+          {
+            "name": "Quaegar",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da582bfaf9b9"
+          },
+          {
+            "name": "Xivaskir",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_ba1bab4a3a28"
+          },
+          {
+            "name": "Griev",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_e9997a780b3a"
+          },
+          {
+            "name": "Zuun",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b8c9ebeb0b89"
+          }
+        ],
+        "moons": [],
+        "leapDays": [],
+        "eras": [
+          {
+            "name": "Al Concordant",
+            "format": "AC",
+            "id": "ID_9a2978c92baa",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "name": "Zal Concordant",
+            "format": "ZC",
+            "date": {
+              "year": 10000,
+              "month": 0,
+              "day": 1
+            },
+            "id": "ID_a8db38899a2b",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          }
+        ],
+        "offset": 0,
+        "padDays": 2,
+        "padMonths": 2
+      },
+      "current": {
+        "day": 13,
+        "month": 0,
+        "year": 10050
+      },
+      "events": [
+        {
+          "name": "Célebration du Pacte des Guildes",
+          "description": null,
+          "date": {
+            "month": 11,
+            "day": 28,
+            "year": [
+              0,
+              null
+            ]
+          },
+          "id": "ID_ebfa8ba88b2a",
+          "note": null,
+          "category": "natural-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "id": "ID_89a9a8a92ac8",
+      "categories": [
+        {
+          "name": "Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        }
+      ]
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_89a9a8a92ac8",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

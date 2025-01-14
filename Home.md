@@ -10,4 +10,3 @@ cssclasses:
 >
 >>[!blank-container]
 >>Foo
-

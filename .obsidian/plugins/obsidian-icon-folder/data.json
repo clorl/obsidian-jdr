@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiEarth",
+      "LiBookOpen",
+      "LiBackpack",
       "🦑",
-      "LiScroll",
-      "LiHome"
+      "LiScroll"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +38,8 @@
     "iconName": "LiHome",
     "iconColor": "#e2a17e"
   },
-  "1. Campagnes": "LiScroll"
+  "1. Campagnes": "LiScroll",
+  "2. Sessions": "LiBackpack",
+  "3. Systèmes": "LiBookOpen",
+  "4. Mondes": "LiEarth"
 }
