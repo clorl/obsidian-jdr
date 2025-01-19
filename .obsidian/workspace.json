@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Mondes/Ravnica/Langues.md",
-                "mode": "source",
+                "file": "D&D 5e/Ravnica/Items Magiques.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Langues"
+              "title": "Items Magiques"
             }
           }
         ]
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 259.5
   },
   "right": {
     "id": "72a7bb1eccd25fc0",
@@ -97,10 +97,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Campagnes/DND Ravnica/DND Ravnica.md"
+                "file": "1. Campagnes/DnD Ravnica - La Guilde sans Couleur/Personnages/Ivild Vuggus, Idéaliste Destructeur.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DND Ravnica"
+              "title": "Outline of Ivild Vuggus, Idéaliste Destructeur"
             }
           },
           {
@@ -115,40 +115,6 @@
           },
           {
             "id": "1554fbac9c1cba4b",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "9485f783ad9d6230",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "1403d0080d9c3846",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "a209d8efe7f4e580",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -183,13 +149,71 @@
             }
           },
           {
-            "id": "eb59ebaebd3aebb6",
+            "id": "f10c685e7c934cdd",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_89a9a8a92ac8",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 14,
+                    "month": 10,
+                    "year": 10124
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": false
+                },
+                "id": "ID_f89a198b2a4b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "8e10c8a0c0d64a1a",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "6841fd2f76768459",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "e1c48644b5c0f832",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "2d783f6d08553204",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -197,11 +221,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "hide-folders:Hide hidden folders again": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
@@ -216,41 +241,56 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "hide-folders:Show hidden folders": true,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "4. Mondes/Ravnica/Monnaie.md",
-    "4. Mondes/Ravnica/Langues.md",
-    "4. Mondes/Ravnica/Lieux/Jace Beleren.md",
-    "4. Mondes/Ravnica/Lieux/Labyrinthe Implicite.md",
-    "4. Mondes/Ravnica/Personnages/Azor.md",
-    "4. Mondes/Ravnica/Evenements/Découverte du plan d'Azor.md",
-    "4. Mondes/Ravnica/Evenements/Rupture du Pacte.md",
-    "4. Mondes/Ravnica/Lieux/Pacte des Guildes.md",
-    "4. Mondes/Ravnica/Factions/Factions.md",
-    "4. Mondes/Ravnica/Factions/Sénat d'Azorius.md",
-    "4. Mondes/Ravnica/Evenements",
-    "Home.md",
-    "4. Mondes/Ravnica/Personnages",
-    "4. Mondes/Ravnica/Factions",
-    "4. Mondes/Ravnica/Lieux",
-    "4. Mondes/Ravnica",
-    "4. Mondes",
-    "3. Systèmes/DnD Ravnica",
-    "3. Systèmes/Sourcebooks/Dungeons & Dragons Guildmasters' Guide to Ravnica.pdf",
+    "D&D 5e/Ravnica/Artworks/Restaurant.png",
+    "D&D 5e/Ravnica/Artworks/Street.png",
+    "D&D 5e/Ravnica/Artworks",
+    "z_Assets/Pasted image 20250119184902.png",
+    "z_Assets/Pasted image 20250119184854.png",
+    "z_Assets/Pasted image 20250119184844.png",
+    "z_Assets/Pasted image 20250119184830.png",
+    "z_Assets/Pasted image 20250119184822.png",
+    "z_Assets/Pasted image 20250119184809.png",
+    "z_Assets/Pasted image 20250119184754.png",
+    "z_Assets/Pasted image 20250119184745.png",
+    "z_Assets/Pasted image 20250119184737.png",
+    "D&D 5e/La Guilde Sans Couleur/Encounters/Exemple.md",
+    "D&D 5e/Ravnica/Items Magiques.md",
+    "D&D 5e/Ravnica/Factions/Factions.md",
+    "D&D 5e/Ravnica/Monstres Par Guilde.md",
+    "D&D 5e/La Guilde Sans Couleur/Campagne.md",
+    "D&D 5e/Ravnica/Bestiaire/Battleforce Angel.md",
+    "D&D 5e/Ravnica/Dungeons & Dragons Guildmasters' Guide to Ravnica.pdf",
+    "D&D 5e/La Guilde Sans Couleur/Lieux/10e District.md",
+    "D&D 5e/Ravnica/Bestiaire",
+    "D&D 5e/La Guilde Sans Couleur/PNJs.md",
+    "D&D 5e/Old/Old.md",
+    "D&D 5e/La Guilde Sans Couleur/PJs.md",
+    "D&D 5e/La Guilde Sans Couleur/Lieux/Exemple.md",
+    "D&D 5e/La Guilde Sans Couleur/Encounters",
+    "Lazy GM Campaign Template/Locations/Example Location.md",
+    "D&D 5e/La Guilde Sans Couleur/Sessions/YYYY-MM-DD Session 1.md",
+    "Lazy GM Campaign Template/Session Notes/YYYY-MM-DD Campaign Session Notes.md",
+    "Lazy GM Campaign Template/Characters.md",
+    "Lazy GM Campaign Template/NPCs.md",
+    "D&D 5e/La Guilde Sans Couleur/Sessions",
+    "D&D 5e/La Guilde Sans Couleur/Lieux",
+    "D&D 5e/La Guilde Sans Couleur",
+    "Lazy GM Campaign Template/Locations/Attachments",
+    "Lazy GM Campaign Template/attachments",
+    "Lazy GM Campaign Template/Session Notes",
+    "D&D 5e/La Guilde Sans Couleur/Personnages/Velli La Visionnaire, Abberation Intellectuelle.md",
+    "D&D 5e/La Guilde Sans Couleur/Personnages/Ivild Vuggus, Idéaliste Destructeur.md",
+    "D&D 5e/La Guilde Sans Couleur/Personnages/Elmeold Gandath, VIdée de toute vie.md",
+    "D&D 5e/La Guilde Sans Couleur/Personnages/Callagror l'Impitoyable.md",
     "1. Campagnes/DnD Ravnica - La Guilde sans Couleur/DnD Ravnica - La Guilde sans Couleur.md",
-    "3. Jeux/Sourcebooks/Dungeons & Dragons Guildmasters' Guide to Ravnica -- Wizards of the Coast -- Dungeons and Dragons, 5, 2018 -- Wizard's of the Coast -- 9780786966592 -- 382fe17063f777014dbfdd9b94f60b67 -- Anna’s Archive.pdf",
-    "3. Jeux/Sourcebooks/DnD Guildmaster's Guide to Ravnica.pdf",
-    "2. Sessions/Nouvelle Session.md",
-    "2. Sessions/00_20250201.md",
-    "1. Campagnes/DnD Ravnica - La Guilde sans Couleur/PJs/Perso 2.md",
-    "1. Campagnes/DnD Ravnica - La Guilde sans Couleur/PJs/Perso 1.md",
-    "3. Systèmes/DnD 5e/Écran MJ.md",
-    "z_Assets/banner-bg.jpg",
-    "Jeux/Jeux.md",
-    "Welcome.md"
+    "D&D 5e/Ravnica/Lieux/Districts/10e District/10e District.md",
+    "D&D 5e/Ravnica/Personnages/Azor.md",
+    "D&D 5e/Ravnica/Personnages/Lavinia, Intendante du Pacte.md",
+    "D&D 5e/Ravnica/Pacte des Guildes.md"
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiEarth",
-      "LiBookOpen",
-      "LiBackpack",
-      "🦑",
-      "LiScroll"
+      "FasScrewdriverWrench",
+      "FasPenClip",
+      "FasDiceD20",
+      "FasGamepad",
+      "FasUserGroup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,13 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Home.md": {
-    "iconName": "LiHome",
-    "iconColor": "#e2a17e"
-  },
-  "1. Campagnes": "LiScroll",
-  "2. Sessions": "LiBackpack",
-  "3. Systèmes": "LiBookOpen",
-  "4. Mondes": "LiEarth"
+  }
 }

@@ -1,4 +1,0 @@
----
-date: 10000-12-28
----
-During the Decamillennial Celebration of 10,000 ZC, commemorating a monumental anniversary of the Guildpact's signing, the pact was broken, the ancient balance was shattered, and Ravnica was thrown into chaos. It didn't take long for wealthy power-mongers to begin seizing control of elements in the city, turning the guilds to their service instead of the other way around. Eventually, the ten-thousand-year-old guild culture and division of duties reasserted itself. The ten guilds regained their dominant positions, but without the magically binding force of the Guildpact to maintain the balance among them.

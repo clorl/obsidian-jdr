@@ -1,8 +1,10 @@
 {
-  "cssTheme": "ITS Theme",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "mcl-wide-views",
     "mcl-multi-column",
-    "mcl-gallery-cards"
-  ]
+    "mcl-gallery-cards",
+    "infobox"
+  ],
+  "baseFontSize": 14
 }

@@ -1,4 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "z_Assets"
+  "attachmentFolderPath": "z_Assets",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

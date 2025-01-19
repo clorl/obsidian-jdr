@@ -29,5 +29,14 @@
   "anuppuccin-theme-settings@@anp-hide-borders": true,
   "anuppuccin-theme-settings@@anp-card-layout-actions": false,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
-  "ITS@@ITS-Sizes": "sizing-mini"
+  "ITS@@ITS-Sizes": "sizing-mini",
+  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-plain-square",
+  "minimal-style@@hide-help": true,
+  "minimal-style@@hide-settings": true,
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-style@@header-height": "28px",
+  "minimal-style@@tabs-style": "tabs-default",
+  "minimal-advanced@@animations": "disable-animations",
+  "infobox@@infobox-width": 200
 }

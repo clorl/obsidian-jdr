@@ -1,1 +1,0 @@
-Pacte magique à l'origine de la paix entre les guildes de [[Ravnica]]. Mis en place en 0 AC. Brisé lors de la [[Rupture du Pacte]] en 10000 ZC.
